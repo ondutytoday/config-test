@@ -6,4 +6,4 @@ spring:
     active: home, dev
 
 prop:
-  value: "from properties"
+  value: "from client properties"
